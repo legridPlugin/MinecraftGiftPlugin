@@ -1,0 +1,12 @@
+name: NewPlugin
+version: '${project.version}'
+main: me.legrid.newplugin.NewPlugin
+authors: [ Legrid ]
+description: MyPlugin
+commands:
+  armlet:
+    description: Гей?
+    usage: </command>
+
+
+
